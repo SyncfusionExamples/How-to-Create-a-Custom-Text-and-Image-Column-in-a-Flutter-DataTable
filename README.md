@@ -54,4 +54,4 @@ To ensure flexibility and performance, include a conditional check before render
 
 ```
 
-You can download this example on [GitHub]().
+You can download this example on [GitHub](https://github.com/SyncfusionExamples/How-to-Create-a-Custom-Text-and-Image-Column-in-a-Flutter-DataTable).
